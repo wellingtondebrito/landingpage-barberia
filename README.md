@@ -6,7 +6,6 @@ Landing page moderna e responsiva para barbearia, desenvolvida com HTML5, Tailwi
 
 Acesse o site em produção: **[Ver no Vercel](https://barberia-moderna.vercel.app/)**
 
-> **Nota:** Substitua `seu-projeto` pelo nome do seu projeto na Vercel ou pelo link completo do deploy.
 
 ## ✨ Características
 
